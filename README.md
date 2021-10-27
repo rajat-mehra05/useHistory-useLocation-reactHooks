@@ -1,2 +1,2 @@
-# useHistory-useLocation-reactHooks
-Created with CodeSandbox
+# React Hooks practice
+ - A simple demo of usage of react hooks i.e. useHistory and useLocation
